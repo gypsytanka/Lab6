@@ -17,8 +17,8 @@
 5. Конец
 
 ### Блок-схема
-[Блок-схема, созданная в draw.io](https://drive.google.com/file/d/1lFY47eLef7lbcW1b2q4a0vyvIo6oefyf/view?usp=drive_link)
-![](https://github.com/user-attachments/assets/756dfe4d-3cd2-4c59-b06b-40ef2ea0081b)
+[Блок-схема, созданная в draw.io](https://drive.google.com/file/d/1D2WZSG1-NychFFGS73-TA7ZOPBmov2tY/view?usp=drive_link)
+![](https://github.com/user-attachments/assets/405cd50c-e08e-46d7-a890-ba29f96034f2)
 
 ## 2. Реализация программы 
 ## 3. Результаты работы программы 
